@@ -16,7 +16,7 @@ module.exports = function buildList() {
       'patch': +parsed[ 2 ]
     },
     'tags': {},
-    'logoURI': 'ipfs://QmNa8mQkrNKp1WEEeGjFezDmDeodkWRevGFN8JCV7b4Xir',
+    'logoURI': 'ipfs://QmaRaHyiFajk3NHr2w35RVXjmZ2DS9VRBSQiUKDSSE5QM4',
     'keywords': [
       'uniswap',
       'default'
